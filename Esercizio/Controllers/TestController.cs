@@ -15,7 +15,6 @@ namespace Esercizio.Controllers
         public string Get()
         {
             return "The application is running";
-            
         }
 
     }
